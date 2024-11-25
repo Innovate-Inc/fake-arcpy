@@ -15,3 +15,6 @@ def SpatialReference(*args, **kwargs):
 
 def Describe(*args, **kwargs):
     pass
+
+def ListFields(*args, **kwargs):
+    pass

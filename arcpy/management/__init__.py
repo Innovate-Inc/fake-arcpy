@@ -12,3 +12,9 @@ def CreateFileGDB(*args, **kwargs):
 
 def Project(*args, **kwargs):
     pass
+
+def AlterField(*args, **kwargs):
+    pass
+
+def CalculateField(*args, **kwargs):
+    pass
