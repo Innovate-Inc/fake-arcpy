@@ -9,3 +9,6 @@ def JSONToFeatures(*args, **kwargs):
 
 def FeaturesToJSON(*args, **kwargs):
     pass
+
+def FeatureClassToGeodatabase(*args, **kwargs):
+    pass
