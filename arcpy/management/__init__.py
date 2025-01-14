@@ -18,3 +18,6 @@ def AlterField(*args, **kwargs):
 
 def CalculateField(*args, **kwargs):
     pass
+
+def GetCount(*args, **kwargs):
+    pass
